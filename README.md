@@ -10,7 +10,7 @@
   
 # MHS-3.5” RPi Display(MHS3528):
 ### Driver install:
-sudo ./MHS35-show-pi5
+```sudo ./MHS35-show-pi5```
 ### WIKI:
 CN: http://www.lcdwiki.com/zh/MHS-3.5inch_RPi_Display  <br>
 EN:http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
