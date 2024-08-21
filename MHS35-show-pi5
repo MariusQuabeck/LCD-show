@@ -150,7 +150,7 @@ cd LCD-show
 sudo sed -i -e '/hdmi_cvt / s/480 320/ 720 480/' ./MHS35-show-pi5
 
 #rotate the display 180 so the power plug is on top instead of the bottom
-sudo ./LCD35-show 180
+#sudo ./MHS35-show-pi5
 
 echo "reboot now"
 sudo reboot
